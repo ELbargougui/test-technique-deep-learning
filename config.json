@@ -1,0 +1,11 @@
+{
+    "mongo_db_config": {
+        "MONGODB_HOST": "localhost",
+        "MONGODB_PORT": 27017,
+        "MONGODB_DB": "my_database",
+        "MONGODB_COLLECTION": "posts"
+    },
+    "credentials": {
+        "access_token": "votre-access-token-facebook"
+    }
+}
